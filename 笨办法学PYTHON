@@ -1,0 +1,22 @@
+# -*- coding:utf-8 -*-
+# eg.1
+print('Hello World!')
+print('Hello Again.')
+print('I like typing this.')
+print('This is fun.')
+print('Yay! Printing.')
+print("I'd much rather you 'not'.")
+print('''I "said" do not touch this.''')
+print(r'I "said" do not touch this.',)
+print('I \"said\" do not touch this.', end='')
+
+# eg.2
+# 加上注释 你可以在以后阅读你的程序
+# 无论什么内容在"#”号之后都会被python忽略
+
+print("我可以这样写代码") # 注释在代码后被忽略
+
+# 也可以使用#注释掉代码
+# print('这样就不会运行')
+
+print('这样可以运行')
